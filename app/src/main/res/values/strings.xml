@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IDEA HACK</string>
+
+
+    <string-array name="filter">
+        <item>All</item>
+        <item>new</item>
+        <item>in-progress</item>
+        <item>completed</item>
+        <item>on hold</item>
+        <item>upvote</item>
+        <item>downvote</item>
+
+    </string-array>
+
+    <string-array name="statuss">
+        <item>new</item>
+        <item>in-progress</item>
+        <item>completed</item>
+        <item>on hold</item>
+    </string-array>
+
+</resources>
+
